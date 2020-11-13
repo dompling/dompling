@@ -3,7 +3,7 @@
 
 > [scriptable](https://github.com/dompling/Scriptable)
 
-| 名称                          | 说明       | 示例参数                                                                                            |
+| Name                          | description       | parameter                                                                                            |
 | ----------------------------- | ---------- | --------------------------------------------------------------------------------------------------- |
 | [birthday](https://github.com/dompling/Scriptable/tree/master/Scripts/Birthday.js)            | BoxJs's data |                                                                                                     |
 | [History today](https://github.com/dompling/Scriptable/tree/master/Scripts/HistoryToday.js) |            |                                                                                                     |
