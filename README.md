@@ -18,5 +18,5 @@
 # Thank you for the visit.
 ![](http://profile-counter.glitch.me/2YA/count.svg)
 
-Please give a start if you like.
+Please give a star if you like.
 
