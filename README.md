@@ -13,7 +13,7 @@
 | [Bilibili today's drama](https://github.com/dompling/Scriptable/tree/master/Scripts/BiliBiliWatch.js)  |            |                                                                                                     |
 | [Bilibili follow center](https://github.com/dompling/Scriptable/tree/master/Scripts/BiliBili.js)  | BoxJs's data | [bilibili's cookie](https://raw.githubusercontent.com/dompling/Script/master/BiliBili/bilibili.cookie.js) |
 
-> [scripts](https://github.com/dompling/Script)
+> [scripts：qx,loon,surge](https://github.com/dompling/Script)
 
 # Thank you for the visit.
 ![](http://profile-counter.glitch.me/2YA/count.svg)
