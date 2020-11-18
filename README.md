@@ -1,7 +1,7 @@
 [![@2YA's github stats](https://github-readme-stats.vercel.app/api?username=2YA&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 # Program
 
-> [scriptable](https://github.com/dompling/Scriptable)
+> [scriptable](https://github.com/dompling/Scriptable) [Tg 电报群](https://t.me/Scriptable_JS)
 
 | Name                          | description       | parameter                                                                                            |
 | ----------------------------- | ---------- | --------------------------------------------------------------------------------------------------- |
